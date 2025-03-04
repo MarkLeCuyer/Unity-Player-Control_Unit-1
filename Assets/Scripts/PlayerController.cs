@@ -4,7 +4,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
 {
     // Private Variables
     private float speed = 5.0f;
-    private float turnSpeed; 25.0f;
+    private float turnSpeed = 25.0f;
     private float horizonalInput;
     private float forwardInput;
 
